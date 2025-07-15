@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "ヴィンテージデニムジャケット",
+    "brand": "Levi's",
+    "images": ["/images/denim1-1.jpg", "/images/denim1-2.jpg"],
+    "size": "M",
+    "price": 9800,
+    "description": "1970年代のLevi'sデニムジャケット。色落ち・ダメージ感が魅力。",
+    "condition": "美品",
+    "stock": 2,
+    "tags": ["デニム", "ジャケット", "Levi's", "70s"],
+    "category": "アウター"
+  },
+  {
+    "id": "2",
+    "name": "レトロ花柄ワンピース",
+    "brand": "Vintage",
+    "images": ["/images/onepiece1-1.jpg", "/images/onepiece1-2.jpg"],
+    "size": "S",
+    "price": 6800,
+    "description": "鮮やかな花柄が特徴の1970年代ワンピース。春夏におすすめ。",
+    "condition": "新品同様",
+    "stock": 1,
+    "tags": ["ワンピース", "花柄", "レトロ", "70s"],
+    "category": "ワンピース"
+  },
+  {
+    "id": "3",
+    "name": "アディダス トラックジャケット",
+    "brand": "adidas",
+    "images": ["/images/adidas1-1.jpg", "/images/adidas1-2.jpg"],
+    "size": "L",
+    "price": 8500,
+    "description": "80年代アディダスのトラックジャケット。希少な配色。",
+    "condition": "ダメージ",
+    "stock": 0,
+    "tags": ["アディダス", "ジャージ", "80s", "スポーツ"],
+    "category": "アウター"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "vintage-shop",
+  "version": "1.0.0",
+  "description": "ヴィンテージ古着屋向け EC サイト（Next.js + TypeScript + Tailwind CSS + Stripe 対応）",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stripe/stripe-js": "^7.4.0",
+    "@types/node": "^24.0.14",
+    "@types/react": "^19.1.8",
+    "autoprefixer": "^10.4.21",
+    "next": "^15.4.1",
+    "next-auth": "^4.24.11",
+    "postcss": "^8.5.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "stripe": "^18.3.0",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.8.3"
+  }
+}
